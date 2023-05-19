@@ -3,4 +3,4 @@ All these prints are last revision.
 Info for printer:
 The file format ufp is translated directly by the printer into the print.
 We used different color's PLA, if the printer says its wrong filaments, it's most likeley a mismatch on the color. 
-Bewary that these prints are designed for PLA. 
+Bewary that these prints are designed for PLA on an ultimaker device.
