@@ -14,7 +14,7 @@ LITOS:
 
 Before setting up a pattern: LITOS can max be off for 5 --> 9 seconds, under 5s parameter the Camera will take picture 
 while the LITOS device is on, any parameter over 9s the device will turn off and stop sending information to the computer.
-Safe area for how long device should be off is 6-8 seconds. This is only relevant for when the system is running and not in start
+Safe area for how long the pattern should be off is 6-8 seconds. This is only relevant for when the system is running and looping and not in start
 sequence or end sequence.
  
 1. How to set a pattern for LITOS device: ( https://github.com/pertzlab/LITOS/wiki/4.-Running-an-experiment )
