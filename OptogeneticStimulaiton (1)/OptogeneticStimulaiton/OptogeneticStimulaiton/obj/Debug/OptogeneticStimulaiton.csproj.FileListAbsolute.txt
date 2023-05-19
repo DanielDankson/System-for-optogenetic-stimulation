@@ -1,0 +1,34 @@
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.exe.config
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.exe
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.pdb
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csprojAssemblyReference.cache
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.Form1.resources
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.Properties.Resources.resources
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.GenerateResource.cache
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.CoreCompileInputs.cache
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.CopyComplete
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.exe
+C:\Users\krira\Documents\Bachlor\Veit ikkje eg\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.pdb
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.exe.config
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.exe
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\OptogeneticStimulaiton.pdb
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.AssemblyReference.cache
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.Form1.resources
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.Properties.Resources.resources
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.GenerateResource.cache
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.CoreCompileInputs.cache
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.exe
+C:\Users\Danie\OneDrive\Desktop\OptogeneticStimulaiton (1)\OptogeneticStimulaiton\OptogeneticStimulaiton\obj\Debug\OptogeneticStimulaiton.pdb

@@ -1,0 +1,10 @@
+This system is modular and can be taken apart piece by piece. 
+The upper part of the system with the IR-camera, can be completely taken apart with unscrewing the screws holding it together. 
+The same can be done for the middle part of the system.
+All these parts can then be washed and cleaned if necessary.
+Please do not try to disassemble the PCB slots on the wall, they are glued for extra security. 
+The box in the bottom can be disassembled, but it's hard to put back together. All devices with built in electronics are designed to be permament, and not disassembled. Except the IR-LED holders, they are only atttached with two screws. 
+
+
+If nessasery to replay electronics there are 3 PCB with different uses. The left on the wall is for IR-LED, the right on the wall is for sensors, and the PCB in the box is for the arduino and generall connection. 
+

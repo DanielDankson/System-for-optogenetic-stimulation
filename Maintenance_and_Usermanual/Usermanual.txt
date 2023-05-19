@@ -1,0 +1,42 @@
+Usermanual for System
+
+IMPORTANT INFO FOR SYSTEM:
+Stop the system if the moisture level goes above 70%
+This level is damaging for electronics, and can cause catastrophic system failure!
+
+How to use the system:
+1. Connect all disconnected cables. [IR_Camera to PC, Arduino to PC, Power to LITOS]
+2. Start Up C# Software
+3. Initiate the LITOS, then initiate C# Software
+4. Let the system run!
+
+LITOS:
+
+Before setting up a pattern: LITOS can max be off for 5 --> 9 seconds, under 5s parameter the Camera will take picture 
+while the LITOS device is on, any parameter over 9s the device will turn off and stop sending information to the computer.
+Safe area for how long device should be off is 6-8 seconds. This is only relevant for when the system is running and not in start
+sequence or end sequence.
+ 
+1. How to set a pattern for LITOS device: ( https://github.com/pertzlab/LITOS/wiki/4.-Running-an-experiment )
+	- This link gives step by step instruction on how to operate the LITOS device. 
+
+C#:
+
+To start the software: OptogeneticStimulaiton\OptogeneticStimulaiton\bin\Debug in here u will find an .exe file that will run the program, if you dont want to run it with Visual studio. 
+
+When you start the C# software it will ask for Camera device. Select camera and proceed.
+Then you must check the COM port to find the correct port. When you found correct port you can start the c# code.
+
+If the camera don't work, download the driver:  ( https://www.theimagingsource.com/en-no/product/industrial/33u/dmk33up1300/ )
+
+Arduino:
+
+If arduino sensors or servo is not operating as expected, re upload the code. // not necessary, if system runs as expected!
+Open the .ino file, connect the usb to pc.
+Go to: Tools --> Board --> "Arduino Pro or Pro Mini". // the reason for this is that this arduino is a clone. 
+Go to: Port --> Choose COM(x), after which USB you connected to your PC. Usually PORT3 or PORT4. 
+
+If you cant find the arduino, download the driver for this device. 
+Link: ( https://www.wch.cn/download/CH341SER_EXE.html ), this device is CH340G
+
+If the device still don't work, check the cable!
